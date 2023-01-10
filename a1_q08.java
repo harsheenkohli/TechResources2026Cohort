@@ -1,5 +1,5 @@
 import java.util.*;
-public class a1_q8
+public class a1_q08
 {
     public static void main(String[] args) 
     {
