@@ -15,7 +15,7 @@ public class a1_q01
                 System.out.println();
                 continue;
             }
-            for(int j=n; j>(i+1); j--)
+            for (int j=n; j>(i+1); j--)
                 System.out.print(" ");
             System.out.println("*");
         }
