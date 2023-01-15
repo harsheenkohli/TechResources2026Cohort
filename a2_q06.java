@@ -5,8 +5,8 @@ public class a2-_q06
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of hollow ellipse:");
-        int n = sc.nextInt(); //7
-        int x = (n+1)/2; //4
+        int n = sc.nextInt(); 
+        int x = (n+1)/2; 
         for (int i = x; i>=1; i--)
         {
             for (int j = i; j>=1; j--)
