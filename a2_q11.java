@@ -5,7 +5,7 @@ public class a2_q11
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of number pattern:");
-        int n = sc.nextInt(); //7
+        int n = sc.nextInt(); 
         int counter = 1;
         for (int i = 1; i<=n; i++)
         {
