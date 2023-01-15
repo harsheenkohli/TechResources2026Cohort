@@ -5,7 +5,7 @@ public class a2_q10
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of solid rhombus:");
-        int n = sc.nextInt(); //7
+        int n = sc.nextInt(); 
         int x = (n+1)/2;
         for (int i = x; i>=1; i--)
         {
