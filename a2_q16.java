@@ -12,7 +12,7 @@ public class a2_q16
                 System.out.print(j + "\t");
             for (int j = 1; j<= (n-i)*2-1; j++)
                 System.out.print("\t");
-            for (int j=i; j>=1; j--)
+            for (int j = i; j>=1; j--)
             {
                 if(j==n)
                     continue;
