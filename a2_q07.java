@@ -5,7 +5,7 @@ public class a2_q07
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of diagonal:");
-        int n = sc.nextInt(); //7
+        int n = sc.nextInt(); 
         for (int i = 1; i<=n; i++)
         {
             for (int j = 1; j<i; j++)
