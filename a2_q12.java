@@ -5,7 +5,7 @@ public class a2_q12
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of fibonaccci pattern:");
-        int n = sc.nextInt(); //7
+        int n = sc.nextInt(); 
         int first = 0, second = 1, third = first + second;
         System.out.println(first);
         for (int i = 2; i<=n; i++)
